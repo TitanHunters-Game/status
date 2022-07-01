@@ -7,8 +7,6 @@ sites:
     url: https://www.titanhunters.io
   - name: dApp
     url: https://app.titanhunters.io
-  - name: API
-    url: https://prod-api.titanhunters.io
 
 status-website:
   cname: status.titanhunters.io
